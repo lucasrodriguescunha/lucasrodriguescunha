@@ -38,6 +38,5 @@
 - landing pages
 - sales pages
 - product page
-- ...
 
 
