@@ -37,6 +37,7 @@
 - blogs
 - landing pages
 - sales pages
-- product pages
+- product page
+- ...
 
 
