@@ -37,6 +37,4 @@
 - sales pages
 - product page
 
-[![Linkedin](https://img.shields.io/badge/-Lucas%20Rodrigues%20Cunha-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasalexandresousa/)](https://www.linkedin.com/in/eulucasrodrigues/)
-
 ![Naruto e Sakura](https://media.giphy.com/media/Mj0gk1wnekXC0/giphy.gif)
