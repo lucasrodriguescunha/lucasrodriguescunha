@@ -24,7 +24,10 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![next.js](https://img.shields.io/badge/-next.js-404040?style=for-the-badge&logo=next.js)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-%23319795.svg?style=for-the-badge&logo=chakraui&logoColor=white&color=808080)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white&color=808080)
+
+
 
 #### Interests
 ![nest.js](https://img.shields.io/badge/-nest.js-404040?style=for-the-badge&logo=nestjs)
