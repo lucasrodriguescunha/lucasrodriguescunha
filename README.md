@@ -3,15 +3,15 @@
 ### I am a Web Development and Computer Science student
 
 #### Technologies and tools I use daily
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=808080)
-
 ![html5](https://img.shields.io/badge/-html5-404040?style=for-the-badge&logo=html5&color=808080)
 ![css3](https://img.shields.io/badge/-css3-404040?style=for-the-badge&logo=css3&color=808080)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=808080)
 ![json](https://img.shields.io/badge/-json-404040?style=for-the-badge&logo=json&color=808080)
-
 ![npm](https://img.shields.io/badge/-npm-404040?style=for-the-badge&logo=npm&color=808080)
 ![git](https://img.shields.io/badge/-git-404040?style=for-the-badge&logo=git&color=808080)
 ![github](https://img.shields.io/badge/-github-404040?style=for-the-badge&logo=github&color=808080)
+
+
 
 ![Markdown](https://img.shields.io/badge/-markdown-404040?style=for-the-badge&logo=markdown&color=808080)
 ![figma](https://img.shields.io/badge/-figma-404040?style=for-the-badge&logo=figma&color=808080)
