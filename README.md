@@ -11,8 +11,6 @@
 ![git](https://img.shields.io/badge/-git-404040?style=for-the-badge&logo=git&color=808080)
 ![github](https://img.shields.io/badge/-github-404040?style=for-the-badge&logo=github&color=808080)
 
-
-
 ![Markdown](https://img.shields.io/badge/-markdown-404040?style=for-the-badge&logo=markdown&color=808080)
 ![figma](https://img.shields.io/badge/-figma-404040?style=for-the-badge&logo=figma&color=808080)
 ![Github Pages](https://img.shields.io/badge/-github%20pages-404040?style=for-the-badge&logo=github&color=808080)
