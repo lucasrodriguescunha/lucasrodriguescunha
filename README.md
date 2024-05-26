@@ -27,8 +27,8 @@
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white&color=808080) -->
 
 #### Interests
-![nest.js](https://img.shields.io/badge/-nest.js-404040?style=for-the-badge&logo=nestjs)
-![three.js](https://img.shields.io/badge/-three.js-404040?style=for-the-badge&logo=three.js)
+![nest.js](https://img.shields.io/badge/-nest.js-404040?style=for-the-badge&logo=nestjs&color=808080)
+![three.js](https://img.shields.io/badge/-three.js-404040?style=for-the-badge&logo=three.js&color=808080)
 
 #### Development with programming languages:
 - institutional websites
