@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,figma)](https://skillicons.dev)
 
 #### Lᴇᴀʀɴɪɴɢ ᴀᴛ ᴛʜᴇ ᴍᴏᴍᴇɴᴛ
-[![Learning](https://skillicons.dev/icons?i=nodejs,aws)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=nodejs,express,aws)](https://skillicons.dev)
 
 #### Dᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇs:
 - ɪɴsᴛɪᴛᴜᴛɪᴏɴᴀʟ ᴡᴇʙsɪᴛᴇs - ʙʟᴏɢs - ʟᴀɴᴅɪɴɢ ᴘᴀɢᴇs - sᴀʟᴇs ᴘᴀɢᴇs - ᴘʀᴏᴅᴜᴄᴛ ᴘᴀɢᴇ
