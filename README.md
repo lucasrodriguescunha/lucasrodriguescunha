@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,vscode,figma,javascript,typescript,nodejs,npm,angular,firebase,postman,git)](https://skillicons.dev)
 
 #### Lᴇᴀʀɴɪɴɢ ᴀᴛ ᴛʜᴇ ᴍᴏᴍᴇɴᴛ
-[![Learning](https://skillicons.dev/icons?i=cpp,nodejs,express,aws,postgres,mysql,java,spring,docker)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cpp,nodejs,express,aws,postgres,mysql,java,maven,spring,docker)](https://skillicons.dev)
 
 #### Dᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇs:
 - ɪɴsᴛɪᴛᴜᴛɪᴏɴᴀʟ ᴡᴇʙsɪᴛᴇs - ʙʟᴏɢs - ʟᴀɴᴅɪɴɢ ᴘᴀɢᴇs - sᴀʟᴇs ᴘᴀɢᴇs - ᴘʀᴏᴅᴜᴄᴛ ᴘᴀɢᴇ
