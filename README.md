@@ -9,5 +9,3 @@
 
 #### Dᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇs:
 - ɪɴsᴛɪᴛᴜᴛɪᴏɴᴀʟ ᴡᴇʙsɪᴛᴇs - ʙʟᴏɢs - ʟᴀɴᴅɪɴɢ ᴘᴀɢᴇs - sᴀʟᴇs ᴘᴀɢᴇs - ᴘʀᴏᴅᴜᴄᴛ ᴘᴀɢᴇ
-
-![Naruto e Sakura](https://media.giphy.com/media/Mj0gk1wnekXC0/giphy.gif)
