@@ -1,5 +1,5 @@
 # Hey There! 👋
-### I ᴀᴍ ᴀ Wᴇʙ Dᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ Cᴏᴍᴘᴜᴛᴇʀ Sᴄɪᴇɴᴄᴇ sᴛᴜᴅᴇɴᴛ
+### I ᴀᴍ Cᴏᴍᴘᴜᴛᴇʀ Sᴄɪᴇɴᴄᴇ Sᴛᴜᴅᴇɴᴛ & Fᴜʟʟsᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪɴ ᴛʀᴀɪɴɪɴɢ
 
 #### Tᴇᴄʜɴᴏʟᴏɢɪᴇs ᴀɴᴅ ᴛᴏᴏʟs I ᴜsᴇ ᴅᴀɪʟʏ
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,vscode,figma,javascript,typescript,nodejs,npm,angular,firebase,postman,git)](https://skillicons.dev)
