@@ -8,7 +8,7 @@
 [![I_have_knowledge](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 
 #### Lᴇᴀʀɴɪɴɢ ᴀᴛ ᴛʜᴇ ᴍᴏᴍᴇɴᴛ
-[![Learning](https://skillicons.dev/icons?i=cpp,heroku,aws,postgres,java,kotlin,spring,docker,linux)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cpp,heroku,aws,postgres,java,kotlin,python,spring,docker,linux)](https://skillicons.dev)
 
 #### Dᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇs:
 - ɪɴsᴛɪᴛᴜᴛɪᴏɴᴀʟ ᴡᴇʙsɪᴛᴇs - ʙʟᴏɢs - ʟᴀɴᴅɪɴɢ ᴘᴀɢᴇs - sᴀʟᴇs ᴘᴀɢᴇs - ᴘʀᴏᴅᴜᴄᴛ ᴘᴀɢᴇ
