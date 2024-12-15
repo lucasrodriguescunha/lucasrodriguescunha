@@ -1,11 +1,11 @@
-# Hey There! 👋
-### I ᴀᴍ Cᴏᴍᴘᴜᴛᴇʀ Sᴄɪᴇɴᴄᴇ Sᴛᴜᴅᴇɴᴛ & Fᴜʟʟsᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪɴ ᴛʀᴀɪɴɪɴɢ
+#### Tᴇᴄɴᴏʟᴏɢɪᴀs ᴇ ғᴇʀʀᴀᴍᴇɴᴛᴀs ǫᴜᴇ ᴜsᴏ ɴᴏ ᴅɪᴀ ᴀ ᴅɪᴀ:
+[![Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,typescript,java,kotlin,docker,postgres,postman,git)](https://skillicons.dev)
 
-#### Tᴇᴄʜɴᴏʟᴏɢɪᴇs ᴀɴᴅ ᴛᴏᴏʟs I ᴜsᴇ ᴅᴀɪʟʏ
-[![Skills](https://skillicons.dev/icons?i=vscode,figma,html,css,scss,bootstrap,typescript,angular,java,kotlin,docker,postman,git)](https://skillicons.dev)
+#### Fʀᴀᴍᴇᴡᴏʀᴋs ǫᴜᴇ ᴜᴛɪʟɪᴢᴏ:
+[![Skills](https://skillicons.dev/icons?i=angular,spring)](https://skillicons.dev)
 
-#### Lᴇᴀʀɴɪɴɢ ᴀᴛ ᴛʜᴇ ᴍᴏᴍᴇɴᴛ
-[![Learning](https://skillicons.dev/icons?i=cpp,heroku,aws,postgres,python,spring,linux,kafka)](https://skillicons.dev)
+#### Esᴛᴏᴜ ᴀᴘʀᴇɴᴅᴇɴᴅᴏ ɴᴏ ᴍᴏᴍᴇɴᴛᴏ:
+[![Learning](https://skillicons.dev/icons?i=cpp,aws,python,linux,kafka)](https://skillicons.dev)
 
-#### Dᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇs:
-- ɪɴsᴛɪᴛᴜᴛɪᴏɴᴀʟ ᴡᴇʙsɪᴛᴇs - ʙʟᴏɢs - ʟᴀɴᴅɪɴɢ ᴘᴀɢᴇs - sᴀʟᴇs ᴘᴀɢᴇs - ᴘʀᴏᴅᴜᴄᴛ ᴘᴀɢᴇ
+#### Tᴇɴʜᴏ ᴀs ᴄᴏᴍᴘᴇᴛᴇ̂ɴᴄɪᴀs ᴇ ʜᴀʙɪʟɪᴅᴀᴅᴇs ɴᴇᴄᴇssᴀ́ʀɪᴀs ᴘᴀʀᴀ ᴅᴇsᴇɴᴠᴏʟᴠᴇʀ:
+- sɪsᴛᴇᴍᴀs ᴡᴇʙ ᴇᴍ ɢᴇʀᴀʟ
