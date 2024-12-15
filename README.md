@@ -1,5 +1,5 @@
 #### Tᴇᴄɴᴏʟᴏɢɪᴀs ᴇ ғᴇʀʀᴀᴍᴇɴᴛᴀs ǫᴜᴇ ᴜsᴏ ɴᴏ ᴅɪᴀ ᴀ ᴅɪᴀ:
-[![Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,typescript,java,kotlin,docker,postgres,postman,git)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,typescript,java,kotlin,docker,postgres,postman,git,gitlab)](https://skillicons.dev)
 
 #### Fʀᴀᴍᴇᴡᴏʀᴋs ǫᴜᴇ ᴜᴛɪʟɪᴢᴏ:
 [![Skills](https://skillicons.dev/icons?i=angular,spring)](https://skillicons.dev)
