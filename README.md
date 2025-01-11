@@ -6,7 +6,7 @@
 [![Skills](https://skillicons.dev/icons?i=angular,spring)](https://skillicons.dev)
 
 #### Esᴛᴏᴜ ᴀᴘʀᴇɴᴅᴇɴᴅᴏ ɴᴏ ᴍᴏᴍᴇɴᴛᴏ:
-[![Learning](https://skillicons.dev/icons?i=aws,python)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 #### Tᴇɴʜᴏ ᴀs ᴄᴏᴍᴘᴇᴛᴇ̂ɴᴄɪᴀs ᴇ ʜᴀʙɪʟɪᴅᴀᴅᴇs ɴᴇᴄᴇssᴀ́ʀɪᴀs ᴘᴀʀᴀ ᴅᴇsᴇɴᴠᴏʟᴠᴇʀ:
 - sɪsᴛᴇᴍᴀs ᴡᴇʙ ᴇᴍ ɢᴇʀᴀʟ
