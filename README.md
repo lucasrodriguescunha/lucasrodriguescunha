@@ -1,5 +1,5 @@
 #### Tᴇᴄɴᴏʟᴏɢɪᴀs ᴇ ғᴇʀʀᴀᴍᴇɴᴛᴀs ǫᴜᴇ ᴜsᴏ ɴᴏ ᴅɪᴀ ᴀ ᴅɪᴀ:
-[![Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,java)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,java,mysql)](https://skillicons.dev)
 [![Skills](https://skillicons.dev/icons?i=kotlin,docker,postgres,postman,git,kafka,rabbitmq,jenkins,gitlab,mongodb)](https://skillicons.dev)
 
 #### Fʀᴀᴍᴇᴡᴏʀᴋs ǫᴜᴇ ᴜᴛɪʟɪᴢᴏ:
