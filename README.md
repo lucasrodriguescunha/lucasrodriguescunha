@@ -1,6 +1,6 @@
 #### Tᴇᴄɴᴏʟᴏɢɪᴀs ᴇ ғᴇʀʀᴀᴍᴇɴᴛᴀs ǫᴜᴇ ᴜsᴏ ɴᴏ ᴅɪᴀ ᴀ ᴅɪᴀ:
-[![Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,java,mysql)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=kotlin,docker,postgres,postman,git,kafka,rabbitmq,jenkins,gitlab,mongodb)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,mysql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,postgres,postman,git,gitlab,mongodb)](https://skillicons.dev)
 
 #### Fʀᴀᴍᴇᴡᴏʀᴋs ǫᴜᴇ ᴜᴛɪʟɪᴢᴏ:
 [![Skills](https://skillicons.dev/icons?i=angular,spring)](https://skillicons.dev)
