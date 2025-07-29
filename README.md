@@ -3,7 +3,7 @@
 [![Skills](https://skillicons.dev/icons?i=docker,postgres,postman,git,gitlab,mongodb)](https://skillicons.dev)
 
 #### Esᴛᴏᴜ ᴀᴘʀᴇɴᴅᴇɴᴅᴏ ɴᴏ ᴍᴏᴍᴇɴᴛᴏ:
-[![Learning](https://skillicons.dev/icons?i=javascript,typescript,prisma)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=javascript,typescript,nextjs,prisma)](https://skillicons.dev)
 
 #### Tᴇɴʜᴏ ᴀs ᴄᴏᴍᴘᴇᴛᴇ̂ɴᴄɪᴀs ᴇ ʜᴀʙɪʟɪᴅᴀᴅᴇs ɴᴇᴄᴇssᴀ́ʀɪᴀs ᴘᴀʀᴀ ᴅᴇsᴇɴᴠᴏʟᴠᴇʀ:
 - sɪsᴛᴇᴍᴀs ᴡᴇʙ
